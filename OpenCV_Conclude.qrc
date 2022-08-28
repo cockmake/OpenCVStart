@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>icon.png</file>
+        <file>dc.png</file>
+        <file>expect.png</file>
+        <file>oc.png</file>
+    </qresource>
+</RCC>
