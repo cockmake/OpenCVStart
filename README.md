@@ -9,5 +9,8 @@
   <li><a href="https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/download.html">OpenVINO 2022.1</a></li>
 </ul>
 <h1>功能:</h1>
-<![image](https://github.com/cockmake/LittleConclude/blob/master/imgs/p_0.png)
+<ul>
+  <li></li>
+  
+</ul>
 
