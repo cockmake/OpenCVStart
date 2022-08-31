@@ -3,6 +3,7 @@
 <h2><span>一些基于OpenCV入门级别的图像处理操作和一些深度学习相关的应用<span></h2>
 <h2>构建环境:</h2>
 <ul>
+  <li>Windows</li>
   <li>Visual Studio 2019</li>
   <li><a href="https://download.qt.io/archive/qt/">QT 5.14.2</a></li>
   <li><a href="https://opencv.org/releases/">OpenCV 4.6.0</a></li>
