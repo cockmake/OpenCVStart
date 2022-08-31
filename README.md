@@ -13,11 +13,11 @@
   <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_0.png" alt="功能展示" style="width: 500px; height: 250px"></img></li>
   <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_1.png" alt="功能展示" style="width: 500px; height: 500px"></img></li>
   <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_2.png" alt="功能展示" style="width: 500px; height: 500px"></img></li>
-  <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_3.png" alt="功能展示" style="width: 500px; height: 500px"></img></li>
+  <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_3.png" alt="功能展示" style="width: 600px; height: 500px"></img></li>
   <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_4.png" alt="功能展示" style="width: 500px; height: 500px"></img></li>
-  <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_5.png" alt="功能展示" style="width: 500px; height: 500px"></img></li>
-  <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_6.png" alt="功能展示" style="width: 500px; height: 500px"></img></li>
-  <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_7.png" alt="功能展示" style="width: 500px; height: 500px"></img></li>
-  <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_8.png" alt="功能展示" style="width: 500px; height: 500px"></img></li>
+  <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_5.png" alt="功能展示" style="width: 600px; height: 500px"></img></li>
+  <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_6.png" alt="功能展示" style="width: 600px; height: 500px"></img></li>
+  <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_7.png" alt="功能展示" style="width: 600px; height: 500px"></img></li>
+  <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_8.png" alt="功能展示" style="width: 600px; height: 500px"></img></li>
 </ul>
 
