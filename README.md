@@ -10,6 +10,6 @@
 </ul>
 <h1>功能:</h1>
 <ul>
-  <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_0.png" alt="功能展示" style="width: 100px; height: 100px"></img></li>
+  <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_0.png" alt="功能展示" style="width: 300px; height: 300px"></img></li>
 </ul>
 
