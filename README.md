@@ -8,3 +8,7 @@
   <li><a href="https://opencv.org/releases/">OpenCV 4.6.0</a></li>
   <li><a href="https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/download.html">OpenVINO 2022.1</a></li>
 </ul>
+<h1>功能:</h1>
+<ul>
+  <li><img src='/imgs/p_0.png' alt='功能展示'></img></li>
+</ul>
