@@ -10,5 +10,5 @@
 </ul>
 <h1>功能:</h1>
 <ul>
-  <li><img src='https://github.com/cockmake/LittleConclude/blob/master/imgs/p_0.png' alt='功能展示'></img></li>
+  <li><![image](https://github.com/cockmake/LittleConclude/blob/master/imgs/p_0.png)</li>
 </ul>
