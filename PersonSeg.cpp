@@ -54,7 +54,7 @@ Mat PersonSeg::processThis(Mat& src, Mat& background) {
 		if (output2[i * 5 + 4] >= confidence) {
 			Rect box = Rect(Point2i(output2[i * 5] * width_ratio, output2[i * 5 + 1] * height_ratio),
 				Point2i(output2[i * 5 + 2] * width_ratio, output2[i * 5 + 3] * height_ratio));
-			rectangle(src, box, Scalar(96, 144, 190), 2);
+// 			rectangle(src, box, Scalar(96, 144, 190), 2);
 			int label = labels[i];
 			float* mask_arr = raw_mask + mask_h * mask_w * i + mask_h * mask_w * label;
 			Mat mask_mat(mask_h, mask_w, CV_32FC1, mask_arr);
