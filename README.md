@@ -9,6 +9,9 @@
   <li><a href="https://opencv.org/releases/">OpenCV 4.6.0</a></li>
   <li><a href="https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/download.html">OpenVINO 2022.1</a></li>
 </ul>
+<h2>下载地址：</h2>
+<p style="font-size: 20px"><span>链接：https://pan.baidu.com/s/1V8Y4xT6SuUrirwCt6PUuyg?pwd=8888 
+提取码：8888</span></p>
 <h1>功能:</h1>
 <ul>
   <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_0.png" alt="功能展示"></img></li>
@@ -20,5 +23,4 @@
   <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_6.png" alt="功能展示"></img></li>
   <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_7.png" alt="功能展示"></img></li>
   <li><img src="https://raw.githubusercontent.com/cockmake/LittleConclude/master/imgs/p_8.png" alt="功能展示"></img></li>
-</ul>
-
+</ul>>
